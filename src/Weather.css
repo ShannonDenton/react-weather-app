@@ -24,16 +24,16 @@
   list-style: none;
 }
 
-.Weathre li {
+.Weather li {
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
 }
 
-.Weather img {
-  height: 74px;
-  width: 74px;
-  margin-bottom: 20px;
+.Weather canvas {
+  height: 60px;
+  width: 60px;
+  margin-top: 20px;
   display: inline-block;
 }
 
